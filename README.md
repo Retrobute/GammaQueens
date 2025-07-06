@@ -29,9 +29,3 @@ cd GammaQueens
 ```
 cargo run
 ```
-
-# Additional Notes : 
-Solving higher-sized boards requires:
-1. A higher mutation rate
-2. A larger population size
-3. More CPU power :)
